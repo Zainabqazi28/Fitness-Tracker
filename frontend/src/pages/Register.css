@@ -1,0 +1,11 @@
+.input-field {
+  width: 180px;
+  height: 25px;
+  box-sizing: border-box;
+  background-color: rgba(128, 128, 128, 0.322);
+}
+
+.input-field option {
+    background-color: #555;
+    color: white;
+}
